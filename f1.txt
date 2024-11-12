@@ -1,1 +1,3 @@
 This is file 1
+Any New Requirement should be added to dev branch
+Once the coding for the requirement is tested then the code from the dev branch should be shifted to main
